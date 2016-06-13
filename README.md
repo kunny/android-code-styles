@@ -13,6 +13,11 @@ Installation
    project to the one you want.
 
 
+Checkstyle
+----------
+
+* Use checkstyle configuration file located at `configs/checkstyle` folder.
+
 License
 -------
 
