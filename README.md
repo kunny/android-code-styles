@@ -16,7 +16,7 @@ Installation
 Checkstyle
 ----------
 
-* Use checkstyle configuration file located at `configs/checkstyle` folder.
+* Use checkstyle configuration file located at `checkstyle` folder.
 
 License
 -------
